@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeheskhielprasetyo&label=Profile%20views&color=0e75b6&style=flat" alt="yeheskhielprasetyo" /> </p>
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Laravel & JS server side**
 
-- 💬 Ask me about **Web Developer**
+- 💬 Ask me about **Web Dev Broo**
 
 - 📫 How to reach me **yeheskhielprasetyorakordana123@gmail.com**
 
