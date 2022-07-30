@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeheskhielprasetyo&label=Profile%20views&color=0e75b6&style=flat" alt="yeheskhielprasetyo" /> </p>
 
-- 🌱 I’m currently learning **PHP & JS Framework server side and a little front end **
+- 🌱 I’m currently learning **PHP & JS Framework Backend and a little Front End **
 
 - 💬 Ask me about **Web Dev Broo**
 
