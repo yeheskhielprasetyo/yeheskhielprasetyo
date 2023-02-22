@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeheskhielprasetyo&label=Profile%20views&color=0e75b6&style=flat" alt="yeheskhielprasetyo" /> </p>
 
-- 🌱 I’m currently learning Laravel, Express JS and Go for Backend
+- 🌱 I’m currently learning about Backend
 - 💬 Ask me about **Backend**
 
 - 📫 How to reach me **yeheskhielprasetyorakordana123@gmail.com**
