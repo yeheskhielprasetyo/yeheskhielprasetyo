@@ -1,13 +1,6 @@
-<h1 align="center">Hi 👋, I'm Yeheskhiel Prasetyo Rakordana</h1>
-<h3 align="center">I'm Programming Enthusiast</h3>
-<img align="right" alt="ypr" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" />
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yeheskhielprasetyo&label=Profile%20views&color=0e75b6&style=flat" alt="yeheskhielprasetyo" /> </p>
-
-- 🌱 I’m currently learning about Backend
-- 💬 Ask me about **Backend**
-
-- 📫 How to reach me **yeheskhielprasetyorakordana123@gmail.com**
+🌱 I’m currently learning about Backend
+💬 Ask me about **Backend**
+📫 How to reach me **yeheskhielprasetyorakordana123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
