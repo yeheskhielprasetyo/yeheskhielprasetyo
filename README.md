@@ -1,6 +1,6 @@
-🌱 I’m currently learning about Backend
-💬 Ask me about **Backend**
-📫 How to reach me **yeheskhielprasetyorakordana123@gmail.com**
+🌱 I’m currently learning about Backend <br>
+💬 Ask me about **Backend** <br>
+📫 How to reach me **yeheskhielprasetyorakordana123@gmail.com** <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
