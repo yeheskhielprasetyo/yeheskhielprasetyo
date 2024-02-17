@@ -1,5 +1,5 @@
-🌱 I’m currently learning about Backend Dev<br>
-💬 Ask me about **Backend Dev** <br>
+🌱 I’m currently learning about Web Dev<br>
+💬 Ask me about **Web Dev** <br>
 📫 How to reach me **yeheskhielprasetyorakordana123@gmail.com** <br>
 
 <h3 align="left">Connect with me:</h3>
